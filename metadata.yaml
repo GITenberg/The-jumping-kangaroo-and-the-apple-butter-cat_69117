@@ -5,12 +5,17 @@ contributor:
     agent_name: Condé, J. W.
     gutenberg_agent_id: '55117'
     url: http://www.gutenberg.org/2009/agents/55117
+covers:
+- cover_type: archival
+  image_path: 69117-h/images/cover.jpg
 creator:
   author:
     agent_name: Harrington, John W.
     gutenberg_agent_id: '55116'
     url: http://www.gutenberg.org/2009/agents/55116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69117#The-jumping-kangaroo-and-the-apple-butter-cat
 gutenberg_issued: '2022-10-08'
 identifiers:
   gutenberg: '69117'
